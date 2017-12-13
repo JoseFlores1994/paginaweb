@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.botones{
+   margin-left: 30%;
+}
+
+.col-sm-4{
+  background-color: #ffff00;
+  margin-top: 1%;
+  padding: 4%;
+}
+
+.col-sm-8{
+  margin-top: 3%;
+}
+
+#per{
+  text-align: center;
+}
+
+#menu{
+  color: white;
+}

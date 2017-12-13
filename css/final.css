@@ -1,0 +1,63 @@
+#menu{
+  color: white;
+}
+
+.col-sm-4, .col-sm-8, .col-sm-6{
+  margin-top: 5%;
+}
+
+
+#reporteFinal{
+  background-color: orange;
+  padding: 5%;
+  margin-left: 5%;
+}
+
+#desa{
+  background-color: yellow;
+  padding: 5%;
+  margin-left: 5%;
+}
+
+#icono{
+  margin-left: 25%;
+}
+
+#criterios{
+  background-color: #66ccff;
+  padding: 5%;
+}
+
+#bloque1{
+  background-color: yellow;
+  padding: 5%;
+}
+
+#bloque2{
+  background-color: orange;
+  padding: 5%;
+}
+
+#bloque3{
+  background-color: #c2c2a3;
+  padding: 5%;
+}
+
+#dudas{
+  margin-left: 25%;
+}
+
+#rejilla1{
+  background-color: rgb(102, 255, 51);
+}
+
+#criteriosInfo{
+  background-color: white;
+  padding: 5%;
+}
+
+#rojo{
+  background-color: red;
+  padding: 5%;
+  color: white;
+}

@@ -1,0 +1,32 @@
+
+
+#menu{
+  color: white;
+  background-color: #3399ff;
+}
+
+.servicio{
+  padding: 5%;
+}
+
+
+.jumbotron{
+  background-color: white;
+  margin-top: 2%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.encabezado{
+  font-family: Arial;
+  margin-left: 1.5%;
+}
+
+.panel-footer{
+  background-color: #66ccff;
+  bottom: 0;
+  bottom: -1;
+  width: 100%;
+  height: 5%;
+  position: fixed;
+}

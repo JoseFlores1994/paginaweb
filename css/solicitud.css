@@ -1,0 +1,41 @@
+.encabezado{
+  background-color: #3399ff;
+
+}
+
+#Titulo{
+  font-weight: bold;
+  font-size: 150%;
+  color: yellow;
+}
+
+#sep{
+  margin-left: 13%;
+}
+
+#reporteFinal{
+  margin-left: 25%;
+}
+
+.encabezado img{
+  border-radius: 3px;
+  margin-left: 3%;
+}
+
+#seps{
+  margin-left: 25%;
+}
+
+#formulario{
+  margin-left: 5%;
+  margin-bottom: 5%;
+  padding-bottom: 5%;
+  padding-top: 5%;
+}
+
+.contenedor{
+  background: #ccccb3;
+  margin-top: 5%;
+  margin-left: 18%;
+  margin-right: 18%;
+}
