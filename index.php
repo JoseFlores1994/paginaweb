@@ -29,7 +29,7 @@
      </div>
     </div>
 </nav>
-
+ <!--  COMENTARIO INSERTADO  -->
     <div class="jumbotron">
         <div class="encabezado">
           <h2><b>Gestión Tecnológica y Vinculación</b></h2>
